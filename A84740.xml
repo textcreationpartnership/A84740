@@ -1,0 +1,467 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deep sighes and sad complaints of some late souldiers in Captain Needhams troop, in Colonel Hackers regiment, for wanting of justice and judgement. To our brethren and fellow-bondslaves, who as yet are compelled to gather straw, and make up your taile of brick, and hath no ease nor abatement in your burdens, we do complain.</title>
+            <author>Fothergill, Thomas, fl. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84740</idno>
+            <idno type="STC">Wing F1638</idno>
+            <idno type="STC">Thomason E707_8</idno>
+            <idno type="STC">ESTC R207120</idno>
+            <idno type="EEBO-CITATION">99866191</idno>
+            <idno type="PROQUEST">99866191</idno>
+            <idno type="VID">118455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118455)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E707[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deep sighes and sad complaints of some late souldiers in Captain Needhams troop, in Colonel Hackers regiment, for wanting of justice and judgement. To our brethren and fellow-bondslaves, who as yet are compelled to gather straw, and make up your taile of brick, and hath no ease nor abatement in your burdens, we do complain.</title>
+                  <author>Fothergill, Thomas, fl. 1653.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed on p.10: Tho. Fothergill.</note>
+                  <note>Annotation on Thomason copy: "July. 26. 1653.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nedham, Clement, --  Captain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:118455:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 69 -->
+            <head>THE Deep Sighes and Sad COMPLAINTS OF Some late Souldiers in
+Captain NEEDHAMS Troop, in Colonel HACKERS Regiment, for wanting of Juſtice
+and Judgment, To our Brethren and Fellow-bondſlaves, who as yet are compelled
+to gather ſtraw, and make up your taile of Brick, and hath no eaſe nor
+abatemant in your burdens, We do complain.</head>
+            <head type="sub">We look for Juſtice but find Oppreſſion, We
+wait for judg<g ref="char:EOLhyphen"/>ment, but behold a cry.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Ear friends and Countreymen, you Com<g ref="char:EOLhyphen"/>moners of
+<hi>England,</hi> whom we dearly love, and whoſe Freedom and Liberty we have
+long deſired, and the Lord that knowes the hearts of men, knows that we are
+yet free and willing to leave Father and Mo<g ref="char:EOLhyphen"/>ther, Wife and Children, and all
+the eſtate that we have in the world, and to adven<g ref="char:EOLhyphen"/>ture our lives for your
+freedome, and truely of late we have had great hope that this year had been
+appointed of the Lord to be your year of lubile, which thoughts of freedom was
+no ſmal joy to us, and that which cauſed our hopes was, that the Lord has
+put ſuch an oppertunity into the hands of the Army, who was the great power
+that then late at the Stern of <hi>Englands</hi> 
+               <pb n="2" facs="tcp:118455:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 70 -->affairs, and might at
+pleaſure have taken of burdens and looſe bands of wickedneſſe, and have
+let the oppreſſed go free, which they did much pretend, and we hearing
+their fair pretences, could do no leſſe but believe them, and wee our
+ſelves in our pla<g ref="char:EOLhyphen"/>ces which God had ſet us, being Members of the ſame
+Army, though the leaſt belonging thereto, thought our ſelves bound in
+conſcience as far as we are able to help forward with the work, and
+conſidering that the firſt work to ſet about to do, for men that pretends
+themſelves to be inſtruments of working out a Na<g ref="char:EOLhyphen"/>tions freedome, is to look
+into themſelves, and amongſt them<g ref="char:EOLhyphen"/>ſelves, and there to try ſeriouſly
+whether they doe lay any part of the burthen upon the people, whoſe freedome
+they doe pre<g ref="char:EOLhyphen"/>tend or no, and if upon Examination they ſind themfelves to be
+oppreſſours of the power in the leaſt, or layers on of thoſe
+hea<g ref="char:EOLhyphen"/>burdens.</p>
+            <p>I ſay, the firſt work they ought to do is, to remove that
+op<g ref="char:EOLhyphen"/>preſſion wherewith they do oppreſſe, and then they may pro<g ref="char:EOLhyphen"/>ceed
+boldly to do as <hi>Moyſes</hi> did, when he ſaw one Iſraelite ſmite
+another, and ſeek the deſtruction one of another; uſe meanes to
+aſſwage their Tyranny, and bring down the Oppreſſour: ſo I ſay, we
+being bound in Conſcience thus to do, looking in our ſelves, and amongſt
+our ſelves, did find out the <hi>Acon,</hi> one Cap<g ref="char:EOLhyphen"/>tain <hi>Needham,</hi> as
+we do conceive, that did diſobey the Command of God, in not being content
+with his wages, for God commands all Souldiers whatſoever, to do violence to
+no man, and bee con<g ref="char:EOLhyphen"/>tent with their wages; but he like that covetous
+<hi>Acon</hi> did pro<g ref="char:EOLhyphen"/>ceed to wrong his Maſters, the Commoners of
+<hi>England,</hi> and the poore ſouldiers who ſerved under his Command, and
+being right ſenſible of this his unjuſt dealing, one <hi>Thomas
+Fothergill</hi> a Soul<g ref="char:EOLhyphen"/>dier under his Command, having his ſpirit burdned with
+his and other mens unjuſt dealings, could no longer forbeare, but did proceed
+to exhibit theſe nineteen enſuing Articles, which I do commend to your
+judicious conſiderations.</p>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:118455:2"/>
+            <!-- PDF PAGE 70 -->
+            <head>Articles exhibited by THOMAS FOTHERGIL againſt Capt.
+NEED<g ref="char:EOLhyphen"/>HAM, in Colonel HACKERS Regiment.</head>
+            <p>
+               <hi>Imprimis,</hi> that the ſaid Captain muſtered in his
+Troop <hi>Robert Lavender</hi> in October <hi>1653.</hi> and re<g ref="char:EOLhyphen"/>ceived his pay
+who never was yet ſeen in the Troop.</p>
+            <p n="2">
+               <hi>2.</hi> That the ſaid Captain muſtred Thomas
+Vaſſe in April and May <hi>1653.</hi> Who was never yet ſeen in the
+Troop.</p>
+            <p n="3">
+               <hi>3.</hi> That the ſaid Captain muſtred John Rumfard
+in April and May <hi>53.</hi> who was never yet ſeen in the Troop.</p>
+            <p n="4">
+               <hi>4.</hi> That the ſaid Captain muſtrea Jervis Price
+in Sept. <hi>1651.</hi> who was with Charls Stuart at Worceſter fight, and
+the ſaid Jervis Price ranne from his Colours, in October <hi>51.</hi> and the
+ſaid Capt muſtred him four months after he was run away, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il appear in
+the Muſter-roles.</p>
+            <p n="5">
+               <hi>5.</hi> That the ſaid Captain muſtred, and
+ſuffred to be muſtred William Stephenaſon the ſpace of five moneths
+af<g ref="char:EOLhyphen"/>ter he was run away from his Colours, and when orders came to reduce ten men
+out of a Troop, old ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uldiers were reduced, and the ſaid William
+Stepheaſon was continued in the roles.</p>
+            <pb n="4" facs="tcp:118455:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <p n="6">
+               <hi>6.</hi> That the ſaid Captain muſtred John Roſs
+a little Scotch Boy, who ran on foot after the Troop, and was not any way
+capable in doing a ſouldiers duty.</p>
+            <p n="7">
+               <hi>7.</hi> That the ſaid Captain contrary to the orders
+of the Army, muſtred three ſervants of his owne as ſouldiers in the
+Troop, and received pay for them, one of thoſe ſer<g ref="char:EOLhyphen"/>vants being a child, not
+any way capable in doing a ſouldiers duty, and hath been muſtred ſince
+November <hi>1653.</hi> as will appear by the Muſter-roles, and was never yet
+ſeen in the Troop.</p>
+            <p n="8">
+               <hi>8.</hi> That the ſaid Captain did re-entertain
+George Hubbert, who was reduced out of the Troop for diſobeying Command, and
+being drunk, and when the ſaid Cap<g ref="char:EOLhyphen"/>tain had orders to reduce all ſervants
+out of the Troop, he continued the ſaid George Hubbert ſtill in the Troop;
+and reduced an old ſouldier againſt whom he had no ac<g ref="char:EOLhyphen"/>cuſation,</p>
+            <p n="9">
+               <hi>9.</hi> That the ſaid Captain bath detained the Pay
+of ſeverall ſouldiers above a year, as will appear by evi<g ref="char:EOLhyphen"/>dence.</p>
+            <p n="10">
+               <hi>10.</hi> That the ſaid Capt. when he quartered at
+Kinar<g ref="char:EOLhyphen"/>dy in Bamph-ſhire, he drunk ſo much Ale and ſtrong waters, tell be
+was ſo drunk, that he could not find the way into his Chamber, though he had
+before quartered a long time in the houſe.</p>
+            <p n="11">
+               <hi>11.</hi> That the ſaid Captain left his Troop when
+we were in the highlands of Scotland, and came for England about the beginning
+of July, and hath not been with the Troop in all above twenty dayes ſince the
+aforeſaid time.</p>
+            <p n="12">
+               <hi>12.</hi> That the ſaid Captain maſtered Henry
+Hill and his man in April and May <hi>1652.</hi> and received 
+<pb n="5" facs="tcp:118455:3"/>
+               <!-- PDF PAGE 71 -->their pay, who never was as yet
+ſeen in the Troop.</p>
+            <p n="13">
+               <hi>13.</hi> That the ſaid Captain muſtred Henry Eden
+and Ron<g ref="char:EOLhyphen"/>land Scaife in March <hi>1652,</hi> and when he had muſtered them, he
+reduced them, and received their pay.</p>
+            <p n="14">
+               <hi>14.</hi> Tat the ſaid Captain muſtred Thomas
+Fihther, Edward Morley, and Thomas Rigg in Aprill <hi>1652.</hi> and detained
+each man of fifteen ſhillings of the ſaid Moneths pay, and the moneth of
+May next following, the Roles being loſt, the ſaid Captain did affirme that
+the aforeſaid men were muſtrod in the ſaid May: and cauſed the Clark of
+the ſaid Troop to pay him for each of the ſaid men. one moneths pay, which
+they never had, they being reduced before in Aprill muſter.</p>
+            <p n="15">
+               <hi>15.</hi> That the ſaid Captain in November
+<hi>1651.</hi> having a drunken and a prophaue perſon to be his ſervant, he
+being ſo ſen<g ref="char:EOLhyphen"/>ſible of his drunkenneſſe, he could no longer for
+ſhame, for the ſa<g ref="char:EOLhyphen"/>tisfaction of the Troop, but reduce the ſaid ſervant,
+and within three dayes after that he had caſhiered him, hee re-entertained
+and continues him him in the Troop almoſt a year, and received a ſouldiers
+Pay foor him, notwithſtanding the ſaid ſervant ſtil continued in his
+prophaneſſe.</p>
+            <p n="16">
+               <hi>16.</hi> That the ſaid Captain being preſent with
+the Troop in September <hi>1651.</hi> deprived John Lowes, an old ſouldier,
+and a<g ref="char:EOLhyphen"/>nother ouldier of their muſter pretending there was not Roome, yet
+notwithſtanding his pretence, muſtred one Summerskill, and received his pay
+though he never was yet ſeen in the Troop, and further in October next after,
+his name being in the role, he was called at the Muſter, the Golonells Clerk
+being there preſent, affirmed that he was muſtred in their Troop, ſo upon
+that our Cap<g ref="char:EOLhyphen"/>tain being abſens our Leiutenant croffed him out of the roles,
+as will appear by evidence.</p>
+            <p n="17">
+               <hi>17.</hi> That the ſaid Captain when we we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e called
+into the high<g ref="char:EOLhyphen"/>lands of Scotland, had five or ſix ſervants, for which he
+receiv<g ref="char:EOLhyphen"/>ed the States pay, beſides a little Scotch boy which he muſtred,
+whoſe imployment was the leading of a dogge, and the ſaid ſer<g ref="char:EOLhyphen"/>vants did
+not perform duty; but was imployed about his particular occaſions.</p>
+            <pb n="6" facs="tcp:118455:4"/>
+            <!-- PDF PAGE 72 -->
+            <p n="18">
+               <hi>18.</hi> That the ſaid Captain and another
+Gentlemen riding on the high way, and diſcourſing of ſome Gentlewomen,
+and at length pitching their diſcourſe on a particular woman, the Captain
+ſaid, O ſhe is a pure creature, I wiſh I were in bed with her, the
+Gentleman judging his words very uncivill, reproved him, and ſaid, why are
+you ſo vainly given? the Captain replyed with a light anſwer, and ſaid,
+are we not all Fleſh.</p>
+            <p n="19">
+               <hi>19.</hi> That the ſaid Captain muſtred Henry Hill
+and his ſer<g ref="char:EOLhyphen"/>vant mentioned in the twelfth Article upon the third of May
+<hi>1652.</hi> when as orders was fos reducing of thirty men,
+notwith<g ref="char:EOLhyphen"/>ſtanding the reducement, the ſaid Hill and his man, continued in
+the roles another muſter, though never ſeen in the Troo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nd the ſaid
+Captain received their Pay.</p>
+         </div>
+         <div type="part">
+            <head>Theſe nineteen Articles is either confeſt by the
+Captaine, or otherwiſe punctu<g ref="char:EOLhyphen"/>ally proved.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Nd I deſire you to take a little notice of the ninth Article
+of detaining of pay, the Ar<g ref="char:EOLhyphen"/>ticle is but ſhort, but much contained in it, for
+twelve ſeverall men did make it ap<g ref="char:EOLhyphen"/>peare that he had defrauded them of their
+due; Now Frinds, that which I deſire you to take notice of, is, that there
+was a Court choſen by whom we know not, nor by what meanes this Court was
+procured, we know not, but it was not the <pb n="7" facs="tcp:118455:4"/>
+               <!-- PDF PAGE 72 -->uſual
+Court by which others uſed to be tryed; and whether they were choſen of
+purpoſe for ſome end or no, wee know nor, but we have juſt cauſe to
+fear.</p>
+            <p>And to ſay we had no juſtice, I do not, (neither dare I
+ſay it) but I leave it to your conſideration, but this we proved, that
+Captain <hi>Needham</hi> muſtred ſeveral men that was never ſeen in his
+Troop, and received pay for them, and muſtred ſome foure moneths after they
+run from their colours, and was gon to the Enemy, and he received pay for them,
+and the Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t did not find him guilty of the breach of that Article of warre
+for falſe muſters but did fine him twenty pounds for the fact. An un<g ref="char:EOLhyphen"/>heard
+of thing by us; againe we proved that he had kept from many of our Troop,
+ſeverall ſummes of money above a yeare and a halfe; and after the
+exhibiting of the articles, compoun<g ref="char:EOLhyphen"/>ded with ſeveral men, payiog ſome
+twelve pounds fifteen ſhil<g ref="char:EOLhyphen"/>lings, and ſome leſſe, and was not found
+guilty of that article of war for detaining of pay, but was judged blame worthy
+by the Court, and reproved for not counting with his ſouldi<g ref="char:EOLhyphen"/>ers, and paying
+to every man his due, and ordered to pay to every man what he could challenge,
+and deſired him not to be ready again to ſtretch out his hand to draw to
+himſelfe; So we leave it to men of abler judgment then we are to judge,
+whether we had juſtice done or no</p>
+            <p>But dear friends, this is not all that we have cauſe to
+com<g ref="char:EOLhyphen"/>plaine of, for here is more injuſtice offered unto us yet, nay, ſuch as
+was never yet heard of, for fince his, tryal they have gone to the Generall
+enforming againſt us, wee know not what, but one thing we know, if for matter
+of fact, unjuſtly, for they have not any thing againſt us in the leaſt,
+but that we brought theſe deed of darkneſſe to light, and poſſibly
+they feared if we were ſuffred, that more of their baſe dealing would be
+brought to light, and ſo upon their in<g ref="char:EOLhyphen"/>formation, the Generall hath granted
+an order to reduce (as they ſay) as many, and who they pleaſe, denying us
+ab<g ref="char:EOLhyphen"/>ſolutely of the priviledge of the law under which wee live.</p>
+            <pb n="8" facs="tcp:118455:5"/>
+            <!-- PDF PAGE 73 -->
+            <p>A ſad ſtory, and much to be lamented of all men, that men
+ſhould pretend nations freedome, and ſay that God hath uſed them as
+inſtruments for the procuring of it and yet deny their fellow labourers of
+the priviledge of a known law and ſevere, the which will take hold of a man
+for the leaſt offence that may be, what ſhall we ſay in ſuch caſes,
+all that I have to ſay to you my friends the Commoners of <hi>England,</hi>
+ceaſe you from man whoſe breath is in his owne noſtrils, and learne to
+wait upon the true and everliving God, who is that <hi>Moyſes</hi> that
+muſt lead you out of bondage, into that land of true reſt and
+happineſſe, which if you do in faith, patience and obedi<g ref="char:EOLhyphen"/>ence, you are
+ſure to have your expectations anſwered, for though man fail us, yet he
+never failed thoſe that waited on him.</p>
+         </div>
+         <div type="part">
+            <head>A VVORD TO THE ARMY.</head>
+            <p>OH gallant Army of <hi>England</hi> whom the Lord hath made
+valiant, and hath crowned with as much ho<g ref="char:EOLhyphen"/>nour as ever was Army crowned with
+ſince the world began, and hath made the enemies of this na<g ref="char:EOLhyphen"/>tion flve before
+you with ſhame and confuſion of face, and thoſe was the Enemies of
+<hi>England</hi> which the Lord had a con<g ref="char:EOLhyphen"/>troverſie 
+<pb n="9" facs="tcp:118455:5"/>
+               <!-- PDF PAGE 73 -->with, whom he had formerly made
+great, and put power in their hands, and ſet over the people in this nation,
+to lead and to keep in ſafety and freedome, and without all doubt gave this
+command, both to King <hi>Charles,</hi> and the late Parliament, to take off
+heavy burthens, loſe the bonds of wickedneſſe, and let the oppreſſed
+go free; which command they diſobeyed, and continued the poor oppreſſed
+people of this Nation in as much bondage and ſlavery as might be, ſo that
+the poore was forced with many ſad groanes to cry unto the Lord, and the Lord
+heard them, and without all doubt, his wrath was kindled againſt thoſe
+unjuſt men, who had not obeyed his Command, and ſet his people free, but
+continued them in their bondage, and raiſed you up to bring them to
+confuſion; well hath the Lord raiſed you up to do this great work, and made
+you inſtruments to pull downe thoſe great and mighty Powers, which in the
+eye of reaſon was invincible: Now I beleech you conſider, whether the Lord
+hath put that power into your hands that was in theirs or no? now if it be in
+your power to looſe the bands of wickedneſſe and let the oppreſſed go
+free, oh do it! and then you are ſure to be glo<g ref="char:EOLhyphen"/>riour indeed, and crowned
+with more honour then ever, and ſhall eate the good things of the land, and
+the Lord will de<g ref="char:EOLhyphen"/>light to dwell amongſt you; but on the contrary, if you will
+be like the reſt, and make your hearts far, and your ears hea<g ref="char:EOLhyphen"/>vy, and will
+not heare the cryes of the poore oppreſſed of this nation, and bring them
+into that freedome which they have ſo long expected and waited for.</p>
+            <p>Surely the Lord will have the ſame Controverſie with you,
+that he had with thoſe before you, who diſobeyed his com<g ref="char:EOLhyphen"/>maed, and if his
+wrath be once kindled, who ſhall be able to deliver you our of his hands?
+nay, though you be great and mighty, he can raiſ up poor contemptible
+creatures, to bring you down, and make you fall with as much ſhame as the
+reſt. Therefore looke about you, and work while it is called to day, leaſt
+a night befall you, in which you cannot <pb n="10" facs="tcp:118455:6"/>
+               <!-- PDF PAGE 74 -->work,
+and to will day overtake you at un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wares, and then you be if reed to ery for
+help, when none will deliver you.</p>
+            <p>Now my deſire and prayer to God for you is both Generall and
+Army, that now when you have put downe thoſe great and unrighteous men, that
+you may not endeavour to ſeat your ſelves in their places, and make your
+ſelves Kings and Lords, to lord over the heritage of God, and the Commoners
+of <hi>England,</hi> who is as freeborne as your ſelves: but inſtead of
+ſo doing, learne to do juſtice, and love mercy, and to walke humbly with
+your God, and endeavour to take off thoſe heavy burthen:, under which the
+people do ſo extreamly groane, and at laſt let the oppreſſed goe free,
+and remember your faire promiſes in all your declarations, which did ingage
+all honeſt hearts ſo freely, to take your part, and let our ears be no
+longer filled with thoſe empty ſounds of fare promiſe, but let our hearts
+be filled with the ſence of the enjoyment of Freedome, and that the people of
+this Nation may have no more cauſe as they have had, and as wee have juſt
+Cauſe to complaine of, now of injuſtice and oppreſſion, but that every
+one may doe as he hath juſt right, ſit downe under his owne Vine, eating
+the fruits of his owne la<g ref="char:EOLhyphen"/>bours, and that he may not when he hath laboured all
+day, have ſome lyon or other at night to come and eat both him, and the
+fruits of his labours up.</p>
+            <p>And now my friends, as many of you as deſires to live godly in
+this preſent world, ſtrive not to contend with the great men of the world,
+for it is in vaine for you ſo to do, but wait upon that king of peace, who if
+you do, will give you peace that paſſeth underſtanding, and bring you
+into that free<g ref="char:EOLhyphen"/>dom, that al the great men in the world cannot deprive you of,
+ſo hoping that my God will give me ſo to do, I reſt.</p>
+            <closer>
+               <signed>
+                  <hi>He who deſireth your greateſt good. THO.
+FOTHERGILL.</hi>
+               </signed> 
+            </closer>
+            <postscript>
+               <pb n="11" facs="tcp:118455:6"/>
+               <p><!-- PDF PAGE 74 -->The Names of thoſe that com<g ref="char:EOLhyphen"/>plaines for
+want of Juſtice, reduced out of Captain <hi>Needhams</hi> Troop.
+<list>
+                     <item>
+                        <hi>Tho. Fothergill.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Bruce</hi> Corporall,</item>
+                     <item>
+                        <hi>Chriſtophar Pyhurn</hi> Clerk.</item>
+                     <item>
+                        <hi>John Wardell.</hi>
+                     </item>
+                     <item>
+                        <hi>William Poyd.</hi>
+                     </item>
+                     <item>
+                        <hi>William Bunkin.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hall.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Brooks.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Kuowles.</hi>
+                     </item>
+                  </list>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
